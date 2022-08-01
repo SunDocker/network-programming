@@ -827,7 +827,7 @@ position:6442450941 left:1327497219
 
 > 用FileChannel只能在**文件**之间拷贝，那如果想直接**拷贝目录**，怎么做呢？用下面的Files就可以
 
-### 3.3 Path
+### 3.3 Path与Paths
 
 jdk7 引入了 Path 和 Paths 类
 
